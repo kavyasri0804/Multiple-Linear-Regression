@@ -54,6 +54,8 @@ Where:
 - X₃ = Marketing Spend
 - X₄ = Encoded State
 The model learns the coefficients and intercept from the training data.
+
+
 ⚙️ Model Training
 The notebook uses Scikit-learn's LinearRegression model and splits the dataset into training and testing sets using test_size=0.2 and random_state=42.
 from sklearn.model_selection import train_test_split
