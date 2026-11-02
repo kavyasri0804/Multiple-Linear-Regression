@@ -84,6 +84,7 @@ RMSE measures the typical scale of prediction errors in the target variable's un
 
 
 💾 Saving the Trained Model
+
 The notebook saves the trained regression model to MLR_MODEL.pkl using Pickle:
 import pickle
 
