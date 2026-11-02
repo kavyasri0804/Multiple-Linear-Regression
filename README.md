@@ -27,6 +27,7 @@ The notebook converts the categorical State values into numeric values:
 - New York → 0
 - California → 1
 - Florida → 2
+  
 The independent variables (X) are all columns except Profit. The dependent variable (y) is Profit.
 Note: This numeric mapping treats the states as numbers. For a more robust categorical-data approach, consider one-hot encoding the State column.
 
