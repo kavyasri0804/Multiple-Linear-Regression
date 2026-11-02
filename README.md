@@ -1,7 +1,6 @@
 # Multiple-Linear-Regression
 📌 Project Overview
 This project uses Multiple Linear Regression, a supervised Machine Learning algorithm, to predict a startup's profit based on its research and development spending, administration spending, marketing spending, and state.
-
 The project is implemented in Python using Pandas, NumPy, Matplotlib, and Scikit-learn. The trained model is also saved and reloaded using Pickle.
 🎯 Objectives
 - Load and explore the startup dataset.
@@ -19,8 +18,6 @@ Administration	Amount spent on administration
 Marketing Spend	Amount spent on marketing
 State	State associated with the startup
 Profit	Target variable to predict
-
-
 Feature Preparation
 The notebook converts the categorical State values into numeric values:
 - New York → 0
